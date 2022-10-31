@@ -1,0 +1,15 @@
+1. Rules and Heurestic: 
+        This is the technique where we just have to check for the rules that are already defined and hence they can be used to detrmine the pattern in the text. Example can be given as Regular expression
+
+"See what is count vectorizer"
+Count vectorizer is something where text is converted into numbers and then it is used for the analysis purpose
+
+But only count vectorizer can not be sufficient for the purpose of text classifiaction and then training the models we need more stuff
+
+Sentence emebeding is another method where one has to give the numbering to the text but here in the sentence emebeding technique the numbering is done mostly on the meaning of the sentence hence providing us the basic facility to train model even when we dont have the exactly same pattern
+
+Pure Machine learning can be used for the NLP
+
+Deep learning can also be used for the purpose of the NLP
+
+New Concept to learn about "cosine simmilarity"
